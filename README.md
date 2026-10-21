@@ -188,6 +188,16 @@ WORKFLOW: Learn → Experiment → Build → Refine
 
 <sub>Statistics are fetched from third-party services. Public-repository statistics may not include private contributions, and service availability or API limits can affect these cards.</sub>
 
+## `$ ./contribution_glass.svg`
+
+<div align="center">
+  <img
+    src="./liquid-glass-contributions.svg"
+    width="100%"
+    alt="Liquid glass contribution activity panel"
+  />
+</div>
+
 ## `06` — `$ cat connect.txt`
 
 <div align="center">
